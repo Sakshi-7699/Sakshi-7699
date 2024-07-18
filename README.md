@@ -6,7 +6,7 @@
 ## 🌐 Socials:
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandpiyush) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/anandpiyush](https://www.linkedin.com/in/sakshi-gupta-0b264a193/)) 
 
 
 <br>
